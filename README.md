@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prashantmane92
-- 👀 I’m interested in Python, Scriptin, Data Science and C++
+- 👀 I’m interested in Python, Scripting, Data Science and C++
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me fb.com/prashantmane92
